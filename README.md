@@ -1,1 +1,1 @@
-# TASK2_GRIP
+# GRIP_TASK2
